@@ -1,9 +1,9 @@
-# A High-Frequency Dataset for Non-Intrusive Load Monitoring
+# Capturing High-Frequency Harmonic Signatures for NILM: Building a Dataset for Load Disaggregation
 
 This repository accompanies the paper:
 
-**"A High-Frequency Dataset for Non-Intrusive Load Monitoring"**
-Farid Dinar,..., Université de Toulon, France, Journal Name, 2025...
+**"Capturing High-Frequency Harmonic Signatures for NILM: Building a Dataset for Load Disaggregation"**
+Dinar, F.; Paris, S.; Busvelle, É. Capturing High-Frequency Harmonic Signatures for NILM: Building a Dataset for Load Disaggregation. 2025
 
 ---
 
