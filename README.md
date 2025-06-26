@@ -107,11 +107,11 @@ If you use this dataset in your work, please cite:
 
 ```
 @article{farid2025,
-  title={A High-Frequency Dataset for NILM},
+  title={Capturing High-Frequency Harmonic Signatures for NILM: Building a Dataset for Load Disaggregation},
   author={Dinar Farid, Paris Sébastien, Busvelle Eric},
-  journal={[Sensors]},
+  journal={Sensors},
   year={2025},
-  doi={10.1234....}
+  doi={}
 }
 ```
 
