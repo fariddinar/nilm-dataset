@@ -4,7 +4,7 @@ This repository accompanies the paper:
 
 **"Capturing High-Frequency Harmonic Signatures for NILM: Building a Dataset for Load Disaggregation"**
 
-Dinar, F.; Paris, S.; Busvelle, É. Capturing High-Frequency Harmonic Signatures for NILM: Building a Dataset for Load Disaggregation. 2025
+Dinar, F.; Paris, S.; Busvelle, É. Capturing High-Frequency Harmonic Signatures for NILM: Building a Dataset for Load Disaggregation. Sensors 2025, 25, 4601. https://doi.org/10.3390/s25154601
 
 ---
 
@@ -106,18 +106,12 @@ plt.show()
 If you use this dataset in your work, please cite:
 
 ```
-@article{farid2025,
-  title={Capturing High-Frequency Harmonic Signatures for NILM: Building a Dataset for Load Disaggregation},
-  author={Dinar Farid, Paris Sébastien, Busvelle Eric},
-  journal={Sensors},
-  year={2025},
-  doi={}
-}
+Dinar, F.; Paris, S.; Busvelle, É. Capturing High-Frequency Harmonic Signatures for NILM: Building a Dataset for Load Disaggregation. Sensors 2025, 25, 4601. https://doi.org/10.3390/s25154601
 ```
 
 ---
 
 ## Contact
 
-For questions, feedback, or collaboration opportunities:
+For questions, contribution, or collaboration opportunities:
 📧 \[[dinar@univ-tln.fr](mailto:dinar@univ-tln.fr)]
