@@ -1,3 +1,5 @@
+
+
 # Capturing High-Frequency Harmonic Signatures for NILM: Building a Dataset for Load Disaggregation
 
 This repository accompanies the paper:
@@ -91,7 +93,7 @@ python map_files_to_appliances.py
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("data/05-16 8h/S1P1.csv")
+df = pd.read_csv("../data/05-16 8h/S1P1.csv")
 plt.plot(df["time"], df["p_active"])
 plt.xlabel("Time (s)")
 plt.ylabel("Active Power (W)")
